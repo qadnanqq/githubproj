@@ -1,2 +1,2 @@
-#add two numbers
-y=a+b
+#add three numbers
+y=a+b+c
